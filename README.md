@@ -14,6 +14,7 @@ Este projeto reúne experiências visuais para apoiar aulas e atividades prátic
    ```bash
    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/adrianoucam/sistemas-de-computacao-readme.md.git)
    ```
+  
 2. Abra o arquivo **`index.html`** em um navegador atualizado (Chrome, Firefox ou Edge).
 3. Escolha uma das abas do laboratório, configure o experimento e use os controles para simular.
 
@@ -170,3 +171,31 @@ Projetos públicos usados como referências de ideias de visualização e intera
 ---
 
 **Aprenda experimentando:** configure um cenário, antecipe a próxima decisão do sistema operacional, avance um passo e explique o resultado.
+
+
+** Outros projetos que tratam o mesmo assunto : 
+https://github.com/nasimbayati/os-teaching-tools
+
+https://github.com/meisamith/os-philosim
+
+https://sync-visualizer.vercel.app
+
+
+https://github.com/jigyasha-pandey/sync-visualizer
+
+https://himanshusinghpatel998.github.io/os_visualiser/
+
+https://github.com/himanshusinghpatel998/os_visualiser
+
+
+https://oslab.xikai.me/
+
+Algoritmo do banqueiro
+
+https://github.com/Srejoye/Banker-s_Algorithm_Simulator?utm_source=chatgpt.com
+
+Simulador de Sistema Operacional
+https://github.com/mazk36/os-simulator
+
+
+
