@@ -12,7 +12,7 @@ Este projeto reúne experiências visuais para apoiar aulas e atividades prátic
 
 1. Baixe o repositório usando **Code → Download ZIP** e descompacte-o; ou clone-o:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/adrianoucam/sistemas-de-computacao-readme.md.git)
    ```
 2. Abra o arquivo **`index.html`** em um navegador atualizado (Chrome, Firefox ou Edge).
 3. Escolha uma das abas do laboratório, configure o experimento e use os controles para simular.
